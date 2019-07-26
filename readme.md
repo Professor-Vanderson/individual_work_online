@@ -7,3 +7,5 @@
 * Student repositories
 * GitHub Classroom
 * Peermissions
+* Exercises
+* Automated testing
